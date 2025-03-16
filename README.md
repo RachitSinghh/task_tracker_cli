@@ -18,18 +18,4 @@ Note:
 - To check for the version number, run this command: `todo -V` or `todo --version`.
 - For help, run this command: `todo -h` or `todo --help`.
 
-## How to use the tool - Video Tutorials
-
-### Add Tasks
-![Add Tasks Demo](./demo/add.mp4)
-
-
-### Read Tasks
-![Read Tasks Demo](./demo/read.mp4)
-### Update Tasks
-![Update Tasks Demo](./demo/read.mp4)
-
-### Delete Tasks
-![Delete Tasks Demo](./demo/delete.mp4)
-
 > **Note:** Both update and delete operations require you to enter the **Todo code** of the task you want to update or delete.
