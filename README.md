@@ -1,4 +1,4 @@
-# Task Manager CLI Tool
+# Task Manager CLI Tools
 This is a task manager CLI tool built using NodeJS and CommanderJS.
 
 ## Setting up the tool
